@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/leandro/Área de Trabalho/Snake/android/assets"><file name="fundo0.png" path="/home/leandro/Área de Trabalho/Snake/android/assets/fundo0.png"/><file name="fundo1.png" path="/home/leandro/Área de Trabalho/Snake/android/assets/fundo1.png"/></source><source path="/home/leandro/Área de Trabalho/Snake/android/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/leandro/Área de Trabalho/Snake/android/src/debug/assets"/></dataSet></merger>

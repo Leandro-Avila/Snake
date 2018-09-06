@@ -1,0 +1,4 @@
+#Tue Sep 04 19:54:07 BRT 2018
+base.0=/home/leandro/Área de Trabalho/Snake/android/build/intermediates/transforms/dexMerger/debug/16
+path.0=classes.dex
+renamed.0=classes.dex

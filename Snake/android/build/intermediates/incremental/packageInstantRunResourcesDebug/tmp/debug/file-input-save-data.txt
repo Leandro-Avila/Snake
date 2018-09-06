@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Sep 04 18:35:01 BRT 2018
+1.base=/home/leandro/Área de Trabalho/Snake/android/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fundo0.png
+0.set=ASSET
+0.base=/home/leandro/Área de Trabalho/Snake/android/build/intermediates/assets/debug
+1.path=fundo1.png
